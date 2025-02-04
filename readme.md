@@ -14,8 +14,6 @@ Me chamo Fernando Gonzaga Martins Oliveira, tenho 24 anos e sou natural de Rio V
 <a href="malito:fernandooliv2107@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
-
-
 ### 🤖 Linguagens e Tecnologias
 <br>
 <img 
@@ -42,9 +40,7 @@ Me chamo Fernando Gonzaga Martins Oliveira, tenho 24 anos e sou natural de Rio V
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <br><br>
-
 ### 📊 Estatísticas
 <br>
 <p>
@@ -61,5 +57,4 @@ Me chamo Fernando Gonzaga Martins Oliveira, tenho 24 anos e sou natural de Rio V
       height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoGonzaga0&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
