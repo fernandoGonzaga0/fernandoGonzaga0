@@ -8,7 +8,7 @@ Me chamo Fernando Gonzaga Martins Oliveira, tenho 24 anos e sou natural de Rio V
 
 ### 📞 Contato
 <br>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/ link="https://www.linkedin.com/in/fernando-gonzaga21/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" link="https://www.linkedin.com/in/fernando-gonzaga21/">
 
 ### 🤖 Linguagens e Tecnologias
 <br>
