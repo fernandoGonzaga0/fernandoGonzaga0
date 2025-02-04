@@ -12,7 +12,7 @@ Me chamo Fernando Gonzaga Martins Oliveira, tenho 24 anos e sou natural de Rio V
 <a href="https://www.linkedin.com/in/fernando-gonzaga21/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a <a href="mailto:fernandooliv2107@gmail.com?subject=Contato via GitHub&body=Olá Fernando, vim pelo seu GitHub!">>
+<a <a href="mailto:fernandooliv2107@gmail.com?subject=Contato via GitHub&body=Olá Fernando, vim pelo seu GitHub!">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>   
 </div>
