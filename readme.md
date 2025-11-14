@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack em Formação`**
 
-Me chamo Fernando Gonzaga Martins Oliveira, tenho 24 anos e sou natural de Rio Verde - GO. Atualmente sou aluno do Instituto Federal Goiano - Campus Rio Verde, cursando Bacharelado em Ciências da Computação. Estou aprimorando meus conhecimentos em tecnologias de programação (com foco em desenvolvimento web) e busco uma oportunidade para iniciar minha carreira como desenvolvedor. 
+Me chamo Fernando Gonzaga Martins Oliveira, tenho 25 anos e sou natural de Rio Verde - GO. Atualmente sou aluno do Instituto Federal Goiano - Campus Rio Verde, cursando Bacharelado em Ciências da Computação, e faço estágio em Desenvolvimento de Software na empresa Néctar Sistemas.
 
 ---
 
