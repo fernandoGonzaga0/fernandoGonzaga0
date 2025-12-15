@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Desenvolvedor Full-Stack Jr 🇧🇷</p>
+<h6 align="left">Desenvolvedor Full-Stack Jr 🇧🇷</h6>
 
 ###
 
-<h3 align="left">Me chamo Fernando Gonzaga Martins Oliveira, tenho 25 anos e sou natural de Rio Verde - GO. Sou aluno do Instituto Federal Goiano - Campus Rio Verde, cursando Bacharelado em Ciências da Computação (7° período).</h3>
+<p align="left">Me chamo Fernando Gonzaga Martins Oliveira, tenho 25 anos e sou natural de Rio Verde - GO. Sou aluno do Instituto Federal Goiano - Campus Rio Verde, cursando Bacharelado em Ciências da Computação (7° período).</p>
 
 ###
 
