@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Sou desenvolvedor de software (estágio) Full-Stack na empresa Néctar Sistemas. Trabalho em um software desktop usando .NET como IDE, C# para back-end e WPF para front-end. Para dados, utilizo SQL Server.<br><br>⚙️ Atualmente estou estudando profundamente C# e WPF.</p>
+<p align="left">📚 Sou desenvolvedor de software (estágio) Full-Stack na empresa Néctar Sistemas. Trabalho em um software desktop usando .NET como IDE, C# para back-end e WPF para front-end. Para dados, utilizo SQL Server.<br><br>⚙️ Atualmente estou estudando profundamente C#, ASP.NET e WPF.</p>
 
 ###
 
