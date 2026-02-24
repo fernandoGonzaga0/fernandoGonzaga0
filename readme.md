@@ -8,9 +8,9 @@ Me chamo Fernando Gonzaga Martins Oliveira, tenho 25 anos e sou natural de Rio V
 # 💻 Tecnologias:
 
   - Linguagens
-  - ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  - ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   - Web
-  - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![ASP.NET](https://img.shields.io/badge/aspnet-%23E34F26.svg?style=for-the-badge&logo=aspnet&logoColor=white) 
+  - ![CSS3](https://img.shields.io/badge/CSS-CSS3-blue?logo=css3) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![ASP.NET](https://img.shields.io/badge/aspnet-%23E34F26.svg?style=for-the-badge&logo=aspnet&logoColor=white) 
   - IDEs
   - ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![.Net](https://img.shields.io/badge/Visual%20Studio-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic) ![.Net](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic) 
   - Dados
