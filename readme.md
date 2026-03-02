@@ -26,7 +26,7 @@ Sou desenvolvedor de software (estágio) Full-Stack na empresa Néctar Sistemas.
 ## Ações recentes  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 Atualmente estou trabalhando na construção do meu portifólio Web. Será feito em ASP.NET (Blazor WebAssembly + React) e hospedado na Azure.  
+- 🔭 Atualmente estou trabalhando na construção do meu portifólio Web. Será feito em ASP.NET + React.
   
 
 - ⚡Estou aprimorando meus conhecimentos em ASP.NET e React no momento.  
