@@ -14,7 +14,7 @@
 ### Sobre mim  
 Me chamo Fernando Gonzaga Martins Oliveira, tenho 25 anos e sou natural de Rio Verde - GO. Sou aluno do Instituto Federal Goiano - Campus Rio Verde, cursando Bacharelado em Ciências da Computação (7° período).
 
-Sou desenvolvedor de software (estágio) Full-Stack na empresa Néctar Sistemas. Trabalho em um software desktop usando .NET como IDE, C# para back-end e WPF para front-end. Para dados, utilizo SQL Server.  
+Sou desenvolvedor de software Full-Stack Jr na empresa Néctar Sistemas. Trabalho em um software desktop usando .NET como IDE, C# para back-end e WPF para front-end. Para dados, utilizo SQL Server.  
   
 ## Ações recentes  
 <table><tr><td valign="top" width="50%">
