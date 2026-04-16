@@ -22,7 +22,7 @@ Sou desenvolvedor de software Full-Stack Jr na empresa Néctar Sistemas. Trabalh
 - 🔭 Atualmente estou trabalhando na construção do meu portifólio Web. Será feito em ASP.NET + React.
   
 
-- ⚡Estou aprimorando meus conhecimentos em ASP.NET, .NET MAUI e React no momento.  
+- ⚡Estou aprimorando meus conhecimentos em ASP.NET e React no momento.  
 
 
 </td><td valign="top" width="50%">
@@ -87,7 +87,6 @@ Sou desenvolvedor de software Full-Stack Jr na empresa Néctar Sistemas. Trabalh
 ## 📱 Plataformas & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
 
 <br/>  
