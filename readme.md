@@ -19,10 +19,10 @@ Sou desenvolvedor de software Full-Stack Jr na empresa Néctar Sistemas. Trabalh
 ## Ações recentes  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 Atualmente estou trabalhando na construção do meu portifólio Web. Será feito em ASP.NET + React.
+- 🔭 Atualmente estou realizando a criação de um ambiente para medição de otimização de chamadas múltiplas de APIs, para meu TCC.
   
 
-- ⚡Estou aprimorando meus conhecimentos em ASP.NET e React no momento.  
+- ⚡Estou aprimorando também meus conhecimentos em ASP.NET e React no momento.  
 
 
 </td><td valign="top" width="50%">
